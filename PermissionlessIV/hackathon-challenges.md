@@ -26,9 +26,9 @@ Supra’s automation framework is integrated directly into the execution layer, 
 
 - **What is the winner breakdown for This Challenge?**
 
-  1st place - $3000
+  1st place - $2500
 
-  2nd place - $2000
+  2nd place - $1500
 
   3rd place - $1000
 
@@ -56,9 +56,9 @@ Explore how AI agents can interact with Supra's on-chain logic. This could mean 
 
 - **What is the winner breakdown for This Challenge?**
 
-  1st place - $3000
+  1st place - $2500
 
-  2nd place - $2000
+  2nd place - $1500
 
   3rd place - $1000
 
@@ -86,28 +86,28 @@ Supra is building out its ecosystem—help us accelerate that by building essent
 
 - **What is the winner breakdown for This Challenge?**
 
-  1st place - $3000
+  1st place - $2500
 
-  2nd place - $2000
+  2nd place - $1500
 
   3rd place - $1000
 
 ## Additional Opportunities
 
-- Builders who submit working projects for the listed challenge are encouraged to apply for job and/or internship opportunities at Supra. Relevant roles include:
+- Builders who submit working projects for the listed challenge are encouraged to apply for Job opportunities at Supra. Relevant roles include:
   - [Senior Rust Compiler Engineer](https://supra.com/careers/5537974004/) (High Priority)
   - [Blockchain Developer](https://supra.com/careers/4237586004/) (Rust/Move)
   - [Blockchain Node Engineer](https://supra.com/careers/5542681004/) (High Priority)
   - [DeFi Smart Contract Engineer](https://supra.com/careers/5165232004/)
   - [Developer Relations Community](https://supra.com/careers/5399916004/)
 
-- Winning projects from any of the challenges are eligible to participate in the Supra SuperDapp Showdown. Compete for a chance to **secure up to $150,000 in funding from the Supra Ecosystem Fund** to support your project's growth and development.
+- Winning Projects from any of the challenges are eligible to participate in the Supra SuperDapp Showdown. Compete for a chance to secure funding from the [Supra Ecosystem Fund](https://supra.com/showdown/) to Support your Project's Growth and Development.
 
 ## FAQ
 
 - **What is the Total Number of Winning Projects in all 3 Challenges Combined?**
 
-  Each Challenge will have 3 Winning Projects making a total of upto 9 winning Projects overall in Supra's Bounty.
+  Each Challenge will have 3 Winning Projects making a total of upto 9 winning Projects overall in Supra's Bounty. There are some instances where we may not select 3 winners in an Challenge so the Winning Projects Number & Prize Amount may varies based on quality and quality of submission.
 
 - **What are the Submission Guidelines and Judging Criteria?**
 
