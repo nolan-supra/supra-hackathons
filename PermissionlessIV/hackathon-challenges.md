@@ -14,6 +14,24 @@ Supra’s automation framework is integrated directly into the execution layer, 
 - **On-Chain Loyalty/Reward Distribution**: Periodic reward drop system for token holders using auto-executed scripts.
 - **Yield Optimizer Across Lending Protocols**: Automate yield rebalancing between lending platforms using Supra scripts for yield fluctuation simulations.
 
+### Challenge Prize Details
+
+- **What is the prize amount?**
+
+  $5,000
+
+- **What is the number of projects awarded in This Perticular Challenge?**
+
+  3 Projects
+
+- **What is the winner breakdown for This Challenge?**
+
+  1st place - $3000
+
+  2nd place - $2000
+
+  3rd place - $1000
+
 ## Challenge 2: AI Agents + Supra: Smarter Contracts
 
 Explore how AI agents can interact with Supra's on-chain logic. This could mean building AI-enhanced apps that read Supra data feeds or build self-improving protocols using VRF, price feeds, or automation. We're especially excited by AI agents that interact with smart contracts intelligently or make decisions based on market conditions using on-chain/off-chain hybrid setups.
@@ -26,6 +44,23 @@ Explore how AI agents can interact with Supra's on-chain logic. This could mean 
 - **Auto-Orchestrator**: AI agent that coordinates Supra automation jobs based on evolving user intents or gas costs.
 - **Sentiment Analysis & AI-Powered Trading Signals**: Implement AI-based insights for optimal entry/exit points, leveraging price action and Supra’s oracle feeds.
 
+### Challenge Prize Details
+
+- **What is the prize amount?**
+
+  $5,000
+
+- **What is the number of projects awarded in This Perticular Challenge?**
+
+  3 Projects
+
+- **What is the winner breakdown for This Challenge?**
+
+  1st place - $3000
+
+  2nd place - $2000
+
+  3rd place - $1000
 
 ## Challenge 3: Build the Supra Stack
 
@@ -38,3 +73,26 @@ Supra is building out its ecosystem—help us accelerate that by building essent
 - **Supra Data Indexer**: Lightweight tool to index Supra blockchain events, with GraphQL or REST API exposure.
 - **Explorer Plugin**: Open-source widget or plugin that adds new data visualizations to the Supra block explorer.
 - **StarKey Wallet Integration Library**: A polished frontend library (React/Next.js) that wraps the StarKey wallet API, offering pre-built hooks, UI components, network switching, transaction signing, and developer-friendly abstractions to simplify wallet onboarding.
+
+### Challenge Prize Details
+
+- **What is the prize amount?**
+
+  $5,000
+
+- **What is the number of projects awarded in This Perticular Challenge?**
+
+  3 Projects
+
+- **What is the winner breakdown for This Challenge?**
+
+  1st place - $3000
+
+  2nd place - $2000
+
+  3rd place - $1000
+
+## Additional Opportunities
+
+- Anyone who Build on any of the above challenges can also apply for Job and Internship openings at Supra.
+- Projects winning any of the Challenges will have an opportunity to be a part of Supra SuperDapp Showdown to Compete for the **Ecosystem fund worth $100M.**
