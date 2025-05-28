@@ -94,16 +94,22 @@ Supra is building out its ecosystem—help us accelerate that by building essent
 
 ## Additional Opportunities
 
-- Anyone who Build on any of the above challenges can also apply for Job and Internship openings at Supra.
-- Projects winning any of the Challenges will have an opportunity to be a part of Supra SuperDapp Showdown to Compete for the **Ecosystem fund worth $100M.**
+- Builders who submit working projects for the listed challenge are encouraged to apply for job and/or internship opportunities at Supra. Relevant roles include:
+  - [Senior Rust Compiler Engineer](https://supra.com/careers/5537974004/) (very important per HR)
+  - [Blockchain Developer](https://supra.com/careers/4237586004/) (Rust/Move)
+  - [Blockchain Node Engineer](https://supra.com/careers/5542681004/) (very important per HR)
+  - [DeFi Smart Contract Engineer](https://supra.com/careers/5165232004/)
+  - [Developer Relations Community](https://supra.com/careers/5399916004/)
 
-## FAO
+- Winning projects from any of the challenges are eligible to participate in the Supra SuperDapp Showdown. Compete for a chance to **secure up to $150,000 in funding from the Supra Ecosystem Fund** to support your project's growth and development.
 
-- **What is the Total Number of Winning Projects all 3 Challenges Combined?**
+## FAQ
+
+- **What is the Total Number of Winning Projects in all 3 Challenges Combined?**
 
   Each Challenge will have 3 Winning Projects making a total of upto 9 winning Projects overall in Supra's Bounty.
 
-- **What are the Submission Guidelines and Judging Criterias?**
+- **What are the Submission Guidelines and Judging Criteria?**
 
   There are dedicated Markdown files alongside Hackathon Challenge in this repo which will give you more information about Supra's Bounty, Kindly Check them out.
 
