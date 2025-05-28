@@ -95,9 +95,9 @@ Supra is building out its ecosystem—help us accelerate that by building essent
 ## Additional Opportunities
 
 - Builders who submit working projects for the listed challenge are encouraged to apply for job and/or internship opportunities at Supra. Relevant roles include:
-  - [Senior Rust Compiler Engineer](https://supra.com/careers/5537974004/) (very important per HR)
+  - [Senior Rust Compiler Engineer](https://supra.com/careers/5537974004/) (High Priority)
   - [Blockchain Developer](https://supra.com/careers/4237586004/) (Rust/Move)
-  - [Blockchain Node Engineer](https://supra.com/careers/5542681004/) (very important per HR)
+  - [Blockchain Node Engineer](https://supra.com/careers/5542681004/) (High Priority)
   - [DeFi Smart Contract Engineer](https://supra.com/careers/5165232004/)
   - [Developer Relations Community](https://supra.com/careers/5399916004/)
 
