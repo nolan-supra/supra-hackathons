@@ -96,3 +96,17 @@ Supra is building out its ecosystem—help us accelerate that by building essent
 
 - Anyone who Build on any of the above challenges can also apply for Job and Internship openings at Supra.
 - Projects winning any of the Challenges will have an opportunity to be a part of Supra SuperDapp Showdown to Compete for the **Ecosystem fund worth $100M.**
+
+## FAO
+
+- **What is the Total Number of Winning Projects all 3 Challenges Combined?**
+
+  Each Challenge will have 3 Winning Projects making a total of upto 9 winning Projects overall in Supra's Bounty.
+
+- **What are the Submission Guidelines and Judging Criterias?**
+
+  There are dedicated Markdown files alongside Hackathon Challenge in this repo which will give you more information about Supra's Bounty, Kindly Check them out.
+
+- **Where can we go for Further Support or Assistance?**
+
+  Feel free to join our [Official Supra Discord](https://discord.gg/supralabs) and chat with the Supra DevRel Team for any further Support.
