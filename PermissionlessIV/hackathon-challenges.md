@@ -101,17 +101,17 @@ Supra is building out its ecosystem—help us accelerate that by building essent
   - [DeFi Smart Contract Engineer](https://supra.com/careers/5165232004/)
   - [Developer Relations Community](https://supra.com/careers/5399916004/)
 
-- Winning Projects from any of the challenges are eligible to participate in the Supra SuperDapp Showdown. Compete for a chance to secure funding from the [Supra Ecosystem Fund](https://supra.com/showdown/) to Support your Project's Growth and Development.
+- Winning Projects from any of the challenges are eligible to participate in the Supra SuperDapp Showdown. Compete for a chance to secure funding from the [Supra Ecosystem Fund](https://supra.com/showdown/) to support your project's growth and development.
 
 ## FAQ
 
 - **What is the Total Number of Winning Projects in all 3 Challenges Combined?**
 
-  Each Challenge will have 3 Winning Projects making a total of upto 9 winning Projects overall in Supra's Bounty. There are some instances where we may not select 3 winners in an Challenge so the Winning Projects Number & Prize Amount may varies based on quality and quality of submission.
+  Each challenge will have up to 3 winning projects for a max of 9 winners across all challenges. There are some instances where we may not select 3 winners in a challenge pending submission quality. Any unawarded funds will be repurposed for a future hackathon.
 
 - **What are the Submission Guidelines and Judging Criteria?**
 
-  There are dedicated Markdown files alongside Hackathon Challenge in this repo which will give you more information about Supra's Bounty, Kindly Check them out.
+  In this repo, you can find the [submission guidelines](./submission-guidelines.md) and [judging rubric](./judging-rubric.md) in their respective markdown files.
 
 - **Where can we go for Further Support or Assistance?**
 
