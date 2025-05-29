@@ -122,6 +122,8 @@ To support transparency and community growth, your full project must be open sou
 
 All submissions must be received **before the official hackathon deadline**.  
 
+Commits after the submission deadline will be ignored.
+
 Late entries will **not** be accepted under any circumstances.
 
 **All requirements must be included within a public GitHub repository.**
